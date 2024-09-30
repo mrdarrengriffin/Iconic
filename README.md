@@ -22,6 +22,7 @@ Give **Iconic** a test drive by simply doing `pod try Iconic` in your terminal, 
 <img src="https://github.com/home-assistant/Iconic/blob/master/Screenshots/screenshot_scale.gif?raw=true" alt="Scale Example"/>
 </p>
 
+[![Home Assistant - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/home-assistant.png)](https://www.openhomefoundation.org/)
 
 ## Why Icon Fonts?
 - Resolution independent: scale and tint without quality loss
